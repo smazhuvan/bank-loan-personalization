@@ -28,3 +28,9 @@ This data set was given as part of course in machine learning. I have also added
 
 # Inspiration
 Study the data distribution in each attribute, share your findings. Use a classification model to predict the likelihood of a liability customer buying personal loans.
+
+# Technologies & Libraries
+Python3 
+> Logistic Regression
+> KNN Classifier
+> Naive Bayes
