@@ -31,6 +31,7 @@ Study the data distribution in each attribute, share your findings. Use a classi
 
 # Technologies & Libraries
 Python3 
-> Logistic Regression
-> KNN Classifier
-> Naive Bayes
+
+> Logistic Regression ; KNN Classifier ; Naive Bayes
+
+>> Pandas ; NumPy ; Matplotlib ; SeaBorn ; SKLearn ; SciPy
